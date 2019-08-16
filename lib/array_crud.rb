@@ -1,13 +1,13 @@
 def create_an_empty_array
-  
+  arrayn = array.new
 end
 
 def create_an_array
-  
+  arrayn = []
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  array.
 end
 
 def add_element_to_start_of_array(array, element)
